@@ -1,0 +1,132 @@
+================================================================
+       STAY SAFE ONLINE — CYBERCRIME PREVENTION CHECKLIST
+      			Task 5 Part-B
+
+================================================================
+
+
+GENERAL ONLINE SAFETY
+-----------------------
+
+    TIP 1 — Use Strong, Unique Passwords for Every Account
+    Create passwords with at least 12 characters using a mix of
+    uppercase letters, lowercase letters, numbers, and symbols.
+    Never reuse the same password across multiple platforms.
+    Use a trusted password manager (e.g., Bitwarden or Google
+    Password Manager) to store them securely.
+
+    TIP 2 — Enable Two-Factor Authentication (2FA) Everywhere
+    Turn on 2FA for your email, social media, and banking apps.
+    Even if someone steals your password, they cannot access your
+    account without the second verification step (OTP or
+    authenticator app). Go to Settings > Security on each app
+    and enable it today.
+
+    TIP 3 — Never Click Links in Unsolicited Messages
+    Do not click any link received via WhatsApp, SMS, or email
+    from an unknown sender — even if it looks official. Scammers
+    create fake pages that mimic government portals, banks, or
+    universities. Always type the official URL directly into your
+    browser instead.
+
+    TIP 4 — Keep Your Phone and Apps Updated
+    Enable auto-updates on your phone and all installed apps,
+    especially banking and UPI apps. Software updates patch
+    known security vulnerabilities. Outdated apps are one of
+    the most common entry points for malware and data theft.
+
+    TIP 5 — Be Careful About What You Share on Social Media
+    Never publicly post your phone number, Aadhaar number, date
+    of birth, or home address on any social platform. Cybercriminals
+    use this information to craft targeted phishing attacks or
+    attempt identity theft against you.
+
+    TIP 6 — Avoid Using Public Wi-Fi for Sensitive Transactions
+    Never use unsecured public Wi-Fi (at cafes, railway stations,
+    or malls) for UPI payments, net banking, or logging into
+    sensitive accounts. Attackers can intercept data on open
+    networks. Use your mobile data or a trusted VPN instead.
+
+
+FINANCIAL & UPI SAFETY  [★ Required Tips]
+------------------------------------------
+
+    TIP 7 ★ — NEVER Share Your UPI PIN, OTP, or CVV — EVER
+    Your UPI PIN is only required when YOU are sending money.
+    No bank, government body, scholarship portal, or company
+    will ever ask for your PIN or OTP to send money TO you.
+    If anyone asks — it is a SCAM. Hang up and block immediately.
+    Remember: entering your PIN on a "collect request" sends
+    money OUT of your account, it does NOT receive money.
+
+    TIP 8 ★ — Verify All UPI Collect Requests Before Accepting
+    On apps like PhonePe, Google Pay, or Paytm, a "Collect
+    Request" DEBITS your account — it does not credit it.
+    Scammers send fake collect requests disguised as refunds,
+    prizes, or scholarship credits. Always REJECT collect
+    requests from unknown numbers or unverified sources.
+    When in doubt — decline and verify through official channels.
+
+
+DEVICE & ACCOUNT SAFETY
+--------------------------
+
+    TIP 9 — Set a Daily UPI Transaction Limit in Your Bank App
+    Most banks allow you to cap the maximum amount transferable
+    per day via UPI. Set a low limit (e.g., Rs. 5,000-10,000)
+    to minimise financial damage if your account is ever
+    compromised. You can raise it temporarily when needed.
+
+    TIP 10 — Always Log Out of Shared or College Devices
+    Never save passwords or stay logged in on lab computers,
+    library systems, or a friend's device. Always use private
+    or incognito mode when accessing accounts on shared devices.
+    Forgetting to log out gives full access to the next user.
+
+    TIP 11 — Check QR Codes Carefully Before Making Payments
+    Always verify the recipient name shown on your UPI app
+    screen before entering your PIN at shops or canteens.
+    Fraudsters sometimes place fake QR codes over legitimate
+    merchant codes. If the name looks wrong or unfamiliar,
+    stop and verify with the shopkeeper before proceeding.
+
+    TIP 12 — Lock Your Phone and Enable Remote Wipe
+    Set a strong PIN or biometric lock on your phone. Enable
+    "Find My Device" on Android or "Find My iPhone" on iOS.
+    If your phone is lost or stolen, you can remotely lock
+    or erase it before anyone can access your banking or
+    UPI apps. Do this now before it is too late.
+
+
+================================================================
+  IF YOU ARE A VICTIM — REPORT IMMEDIATELY
+  (Acting fast, ideally within 1 hour, can help freeze funds)
+================================================================
+
+      STEP 1 — Call Helpline 1930 (National Cyber Crime Helpline)
+              Available 24/7 nationally. Can initiate a bank
+              freeze request to stop further fund transfers.
+
+     STEP 2 — File a Complaint Online:
+              cybercrime.gov.in
+              File for all cybercrimes — UPI fraud, phishing,
+              cyberbullying, identity theft — any time, 24/7.
+
+     STEP 3 — Call Your Bank's Fraud Helpline
+              Request an immediate transaction dispute and
+              account hold to limit further damage.
+
+     STEP 4 — File an FIR at Your Nearest Cyber Police Station
+              Required for significant financial losses and
+              essential for any legal follow-up or recovery.
+
+================================================================
+  QUICK RULE TO REMEMBER:
+  "If anyone asks for your OTP or UPI PIN — it is a scam.
+   No exceptions. No legitimate organisation needs these
+   details to send money to you."
+================================================================
+
+  Report Portal : cybercrime.gov.in
+  Helpline      : 1930
+================================================================
