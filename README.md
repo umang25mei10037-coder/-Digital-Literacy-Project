@@ -128,6 +128,8 @@ Awareness of cyber threats and prevention methods
 
 Google Form (Quiz): https://forms.gle/Wc6T2RM8LVNXNF1r5
 
+Google Form (Responses List): https://docs.google.com/spreadsheets/d/1pL6vcYUQwxN5ZFs5j08tYQ7vFMnAGU2BH72dcJtnVWw/edit?usp=sharing
+
 LinkedIn Profile: https://www.linkedin.com/in/umang-patel-bb7720363/
 
 GitHub Profile: (Your link)
