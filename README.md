@@ -132,7 +132,8 @@ Google Form (Responses List): https://docs.google.com/spreadsheets/d/1pL6vcYUQwx
 
 LinkedIn Profile: https://www.linkedin.com/in/umang-patel-bb7720363/
 
-GitHub Profile: (Your link)
+GitHub Profile: https://github.com/umang25mei10037-coder
+
 
 
 📌 Conclusion:
