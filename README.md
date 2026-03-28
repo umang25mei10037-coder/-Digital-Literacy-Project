@@ -136,5 +136,3 @@ GitHub Profile: (Your link)
 📌 Conclusion:
 
 This project helped me develop practical digital skills that will support my academic journey and future career. It also strengthened my understanding of responsible and professional behavior in the digital world.
-
-This project helped me develop practical digital skills that will support my academic journey and future career. It also strengthened my understanding of responsible and professional behavior in the digital world.
