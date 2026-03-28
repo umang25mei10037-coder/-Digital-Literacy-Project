@@ -5,8 +5,11 @@ VIT Bhopal University | VITyarthi E-Learning Platform
 👨‍🎓 Student Details
 
 Name: Umang Patel
+
 Registration No.: 25MEI10037
+
 Branch: Integrated M.Tech Computer Science Engineering in Cyber Security
+
 Year: 1st Year
 
 📖 Project Overview
